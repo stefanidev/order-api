@@ -11,7 +11,6 @@ Este projeto foi desenvolvido como parte de um teste técnico e implementa opera
 - Node.js
 - Express
 - MongoDB
-- dotenv
 
 ---
 
@@ -102,5 +101,3 @@ Remover pedido
 
 DELETE /order/:id
 
-Autor
-Stefani Souza
