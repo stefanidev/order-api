@@ -38,8 +38,10 @@ Exemplo:
 
 MONGODB_URI=mongodb+srv://usuario:senha@cluster.mongodb.net/ordersdb
 PORT=3000
+
 Executar o projeto
 node server.js
+
 
 A API será iniciada em:
 
@@ -51,6 +53,7 @@ Estrutura do Projeto
 ├── package.json
 ├── .env.example
 └── README.md
+
 Rotas da API
 Criar pedido
 
